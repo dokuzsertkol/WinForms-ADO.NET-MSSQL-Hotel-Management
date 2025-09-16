@@ -1,4 +1,5 @@
 # C#-WinForms-ADO.NET-MSSQL Hotel Management System
+18 Jan 2024
 
 The hotel management system was created using SQL Server and C# Windows Forms. It is intended to manage staff, reservations, and customer loyalty programs. With an emphasis on user roles, database integration, and business logic, this project showcases full-stack desktop application development.
 
